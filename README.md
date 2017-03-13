@@ -2,6 +2,10 @@
 
 - https://hub.docker.com/r/zaru/drone_in_docker/
 
+## Installed packages
+
+- jq
+- aws-cli
 
 ## Usage
 
